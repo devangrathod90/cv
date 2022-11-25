@@ -1,0 +1,90 @@
+h1{
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 40px;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  color: powderblue;
+  font-size: 30px;
+
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: powderblue;
+  font-size: 20px;
+
+}
+
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  background-color:#4C3F91;
+}
+.pro{
+  text-decoration: underline;
+}
+.top{
+  background-color:powderblue;
+  position:relative;
+  padding-top: 100px;
+  background-color: #F2789F;
+
+}
+
+.middle-container{
+  margin-bottom: 30px;
+}
+.computer{
+  float: left;
+  margin-right: 30px;
+
+}
+
+.python{
+    border-radius: 120px;
+    float:right;
+    margin-left:  30px;
+
+}
+
+.skill-row{
+  width: 50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+
+
+div.bottom{
+  background-color: blue;
+  height:200px;
+  width:200px;
+}
+
+.cloud-1{
+  position: absolute;
+  top:50px;
+  right:400px;
+
+}
+.cloud-2{
+  position:absolute;
+  top: 200px;
+  left:400px;
+
+}
+.mountain1{
+
+  top:400px;
+
+}
+.contact-me{
+  background-color: #F2789F;
+}
+.bottom-container{
+  background-color: #F2789F;
+}
